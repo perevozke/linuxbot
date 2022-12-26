@@ -1,4 +1,5 @@
 Bot - reminder for sending message one time per needed period
+
 Planning:
 - user's remindes for custom time
 - lvling of exercise difficulty
